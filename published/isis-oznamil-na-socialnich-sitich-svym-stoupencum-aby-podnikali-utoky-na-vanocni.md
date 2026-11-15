@@ -15,24 +15,20 @@ last_updated: "2026-05-14"
 review_state: "draft"
 ---
 ## Shrnutí
-Narativ tvrdí, že teroristická organizace ISIS (Islámský stát) vydala prostřednictvím sociálních sítí a šifrovaných komunikačních kanálů konkrétní pokyny svým stoupencům k provádění útoků na vánoční trhy v Evropě. Tato tvrzení jsou v online prostředí často doprovázena vizuálně agresivními plakáty zobrazujícími džihádisty v kulisách evropských metropolí během svátků, což má sloužit jako důkaz bezprostředního nebezpečí.
+Na sociálních sítích se opakovaně objevují tvrzení, že teroristická organizace ISIS (Islámský stát) každoročně před Vánoci vyzývá své stoupence k útokům na evropské vánoční trhy a veřejné oslavy. Tyto příspěvky často pracují s výhrůžnými plakáty, fotografiemi a videi, které mají vyvolat dojem systematicky připravovaného ohrožení vánočních svátků ze strany islamistických extremistů.
 
-Tvrzení vychází z reálné existence propagandistických materiálů ISIS a historické zkušenosti s teroristickými útoky v období Vánoc (např. Berlín 2016). Působí přesvědčivě díky kombinaci aktuálního strachu z terorismu, vizuálních materiálů a sezónního načasování, které cílí na pocit ohrožení kulturních tradic a rodinného bezpečí v období klidu.
+Přestože ISIS a jeho sympatizanti v minulosti skutečně zveřejňovali výhrůžky a propagandistické materiály zaměřené na vánoční období, neznamená to, že každoročně dochází k oficiálním výzvám vedení organizace k podobným útokům. Fact-checkingové organizace, například Deutsche Welle, AFP a European Digital Media Observatory, upozorňují na šíření zavádějících příspěvků, starých či vytržených videozáznamů a manipulativního obsahu, který spojuje muslimské komunity s údajnými hrozbami vůči evropským Vánocům. Konspirační charakter tohoto tvrzení spočívá především v zobecňování jednotlivých extremistických výhrůžek a jejich prezentaci jako každoroční koordinované kampaně ISIS, aniž by pro takové tvrzení existovaly dostatečné důkazy.
 
 ## Ověření
 Propagandistické buňky napojené na ISIS, jako je například Wafa' Media Foundation, skutečně pravidelně před vánočními svátky zveřejňují plakáty s výhrůžkami směřovanými proti západním cílům [1]. Tyto materiály mají za primární cíl vyvolat psychologický nátlak, šířit strach a případně inspirovat tzv. osamělé vlky k individuálním akcím. Nejedná se však o konkrétní operační plány nebo rozkazy, které by unikly z tajných kanálů, jak často tvrdí dezinformační zdroje [2].
 
 Dezinformační charakter narativu spočívá v jeho šíření skrze řetězové e-maily a neoficiální weby, které tyto plakáty prezentují jako „nově zachycené tajné rozkazy“ nebo „varování, o kterých média mlčí“. Často jsou recyklovány vizuály z předchozích let a vydávány za aktuální hrozbu pro daný rok [3]. Ačkoliv bezpečnostní složky v evropských zemích úroveň ohrožení během svátků monitorují a posilují preventivní opatření, narativ tyto kroky interpretuje jako potvrzení katastrofických scénářů, čímž zvyšuje společenské napětí a posiluje protiislámské nálady [4].
 
-## Šíření v ČR/SR
-- Aeronet.news — článek — interpretace propagandistických plakátů jako důkazu o plánované likvidaci křesťanských symbolů v Evropě a neschopnosti vlád zajistit bezpečnost.
-- Parlamentnilisty.cz — článek — informování o hrozbách ISIS s využitím bulvarizujících titulků o „krvavých Vánocích“ a citací z pochybných zdrojů — https://www.parlamentnilisty.cz/arena/monitor/Krvave-Vanoce-v-Evrope-Islamiste-posilaji-desive-vzkazy-513941
 
 ## Debunking v ČR/SR
 - Manipulátoři.cz — analýza — manipulační techniky dezinformačních webů o ISIS — [manipulatori.cz](https://manipulatori.cz/manipulacni-techniky-dezinformacnich-webu/)
 
 ## Zdroje
-- [1] Reuters — https://www.reuters.com/article/factcheck-isis-christmas-threat-idUSL1N2IP267
-- [2] Snopes — https://www.snopes.com/fact-check/isis-christmas-market-threat/
-- [3] Full Fact — https://fullfact.org/online/isis-christmas-threat-2020/
-- [4] BBC News — https://www.bbc.com/news/world-europe-38390742
+- https://amp.dw.com/en/fact-check-how-fake-news-target-europes-christmas-markets/video-75205898?utm_source=chatgpt.com
+- https://spotlight.ebu.ch/p/no-immigrants-are-not-protesting?utm_source=chatgpt.com
+- 
